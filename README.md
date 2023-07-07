@@ -1,2 +1,2 @@
 # psychic-octo-spoon
-UI test python selenium
+Automatization test UI of Web Interface on Python v3.9 with module Selenium
